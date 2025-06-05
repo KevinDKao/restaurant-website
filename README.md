@@ -2,6 +2,9 @@
 
 A beautiful and modern restaurant reviewing application built with Python Dash. Discover restaurants, read reviews, and share your dining experiences!
 
+
+![image](https://github.com/user-attachments/assets/256a38b4-e16f-4cb3-92e1-23ff9084e710)
+
 ## ✨ Features
 
 - **Beautiful Modern UI**: Clean, responsive design with Bootstrap styling
